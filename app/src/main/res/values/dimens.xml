@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="addAlarmActivitySidePadding">16dp</dimen>
+    <dimen name="addAlarmActivityItemsHeight">50dp</dimen>
+</resources>

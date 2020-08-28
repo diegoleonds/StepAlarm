@@ -1,0 +1,25 @@
+
+w
+Gapp/src/main/java/com/example/stepalarm/view/activities/MainActivity.kt,3\d\3d29f32fd21e79273a037d84955a8e4dc83d5ec1
+k
+;app/src/main/java/com/example/stepalarm/data/model/Alarm.kt,9\7\97ab71b01a77a4965c1f6a8af444a2f1bf8d8800
+{
+Kapp/src/main/java/com/example/stepalarm/view/activities/addAlarmActivity.kt,f\1\f1774eb8c87b134421444a6c8a22e6c3f8e1e50c
+‚
+Rapp/src/main/java/com/example/stepalarm/view/fragmentdialogs/MyTimePickerDialog.kt,7\8\78c5e6838385c8bd1e61c2f5423c5231f3aa4aea
+{
+Kapp/src/main/java/com/example/stepalarm/view/activities/AddAlarmActivity.kt,c\1\c1a5754ce3e7d7cb861ab55e7a87941d3955b862
+w
+Gapp/src/main/java/com/example/stepalarm/viewmodel/di/ViewModelModule.kt,3\5\354fc655c8c51c635cf5278f0a0b941debc9ae3a
+v
+Fapp/src/main/java/com/example/stepalarm/viewmodel/AddAlarmViewModel.kt,8\6\8620f48bb22ba0fb49284c88c8f096fa1a3df7de
+n
+>app/src/main/java/com/example/stepalarm/view/model/Schedule.kt,1\c\1c7d3907ed2dc04bad5d911ff282af099e408aac
+w
+Gapp/src/test/java/com/example/stepalarm/view/utils/TextFormatterTest.kt,3\f\3fa1ec1a0daf956e2414021d30321122d1c4e720
+s
+Capp/src/main/java/com/example/stepalarm/view/utils/TextFormatter.kt,b\5\b564e0ae4221c585d60547c2be6f67d5cc0ced75
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+„
+Tapp/src/main/java/com/example/stepalarm/view/fragmentdialogs/AlarmFrequencyDialog.kt,8\e\8e873d4bcb9a8750f70b371727fd4babf1d21887

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StepAlarm</string>
+    <string name="hour">7:00</string>
+    <string name="days">Monday to Friday</string>
+    <string name="repeat_option">Repeat</string>
+    <string name="frequency_once">Once</string>
+    <string name="name_option">Name</string>
+    <string name="vibrate_option">Vibrate</string>
+    <string name="delete_after_ring_option">Delete after ring</string>
+    <string name="frequency_daily">Daily</string>
+    <string name="frequency_working_week">Monday to friday</string>
+    <string name="frequency_custom">Custom</string>
+</resources>
